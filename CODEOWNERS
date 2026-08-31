@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @con-vict-er
+/src/backend/database.py      @con-vict-er
+/src/backend/routers/auth.py  @con-vict-er
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @con-vict-er
